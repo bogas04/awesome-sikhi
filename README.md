@@ -3,6 +3,7 @@
 Table of Contents
 
 * [Articles](#articles)
+* [Communities](#communities)
 * [Videos](#videos)
   * [Video Katha](#video-katha)
     * [Video Katha Nitnem](#video-katha-nitnem)
@@ -64,6 +65,9 @@ Table of Contents
 
 # Articles
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+
+# Communities
+* [Reddit](https://reddit.com/r/sikh)
 
 # Videos
 
