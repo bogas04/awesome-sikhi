@@ -67,9 +67,12 @@ Table of Contents
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 # Communities
-* [Reddit](https://reddit.com/r/sikh)
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Reddit](https://reddit.com/r/sikh).
+* [SikhNet Discussion](https://www.sikhnet.com/discussion/).
 
 # Videos
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ## Video Katha
 
@@ -124,6 +127,7 @@ Table of Contents
 
 ### Video Katha Sri Guru Granth Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Shri Guru Granth Sahib Ji Di Sampooran Katha (Tariye Gur Vichar) ](https://www.youtube.com/playlist?list=PLGC9wjunTsNV6xLhOuGuXiaBTfpAnjOR8)
 
 ### Video Katha Dasam Granth
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -231,30 +235,41 @@ Table of Contents
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [iSearchGurbani](https://play.google.com/store/apps/details?id=com.smartbuzz.vkh.isg)
 
-### Windows Phone Applications
-* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
-
 ### iOS Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [iSearchGurbani](https://itunes.apple.com/in/app/isearch-gurbani-!/id674467937?mt=8)
+
+### Windows Phone Applications
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ## Desktop Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ### Windows Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Sikhi To The Max](http://www.sikhitothemax.com/updates.htm).
+* [Search Gurbani Desktop Version](https://searchgurbani.com/sgdv)
 
 ### Macintosh Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Search Gurbani Desktop Version](https://searchgurbani.com/sgdv)
 
 ### Linux Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Search Gurbani Desktop Version](https://searchgurbani.com/sgdv)
 
 # Websites
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [SikhWiki](http://www.sikhiwiki.org)
+* [SikhNet](http://www.sikhnet.com/)
+* [Sikh-History](http://www.sikh-history.com/)
+* [Sikhi Art](http://www.sikhiart.com/)
 
 ## Youtube Channels
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [Basics of Sikhi](https://www.youtube.com/user/basicsofsikhi/)
 * [Nanak Naam](https://www.youtube.com/user/NanakNaamOrg)
+* [SikhNet](https://www.youtube.com/user/gmustuk)
+* [Bhai Parminder Singh Jallandar Kirtani](https://www.youtube.com/user/singh22g)
+* [Bhai Manpreert Singh Kanpuri Kirtani](https://www.youtube.com/channel/UC53icubAWy3JJ9GHo8PGSXw)
