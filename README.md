@@ -222,7 +222,7 @@ Table of Contents
 * [Granth.co - Explore the holy book of the Sikh faith in 53 languages in an intuitive interface.](https://granth.co)
 * [Learn Larivaar](http://larivaar.com/)
 * [Gurbani Now](http://gurbaninow.com/)
-* [SikhJS - Modern Web App](https://bogas04.github.i/SikhJS)
+* [SikhJS - Modern Web App](https://bogas04.github.io/SikhJS)
 
 ## Mobile Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
