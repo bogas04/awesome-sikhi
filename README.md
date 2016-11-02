@@ -60,6 +60,7 @@ Table of Contents
     * [Macintosh](#macintosh-applications)
     * [Linux](#linux-applications)
 * [Websites](#websites)
+  * [Youtube Channels](#youtube-channels)
 
 # Articles
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -72,30 +73,40 @@ Table of Contents
 
 #### Video Katha Mool Mantar
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Nanak Naam - English Katha Mool Mantar](https://www.youtube.com/playlist?list=PLcfWqGbTrBFrsoT64flw3JjC7Ar26rHSD).
 
 #### Video Katha Japji Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Nanak Naam - English Katha Japji Sahib](https://www.youtube.com/playlist?list=PLcfWqGbTrBFpedydGl8Tf5OwwU7sMWz2K).
+* [Basics of Sikhi - English Katha Japji Sahib](https://www.youtube.com/playlist?list=PL8F0BB3226CF2D06B)
 
 #### Video Katha Jaap Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi - English Katha Jaap Sahib](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJlfIAMQZ5ykIaRtV5IQxn3z)
 
 #### Video Katha Tva Prasad Swaiye
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi - English Katha Tva Prasad Swaiye](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJnKq7JbdL7RjZxOJPP-R2sq)
 
 #### Video Katha Kabyo-bach Benti
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi - English Katha Kabyo Bach Benti](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJknGqk3j-LLajMKQiRkmPFv)
 
 #### Video Katha Anand Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi - English Katha Kabyo Bach Benti](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJn3zy_tVf9r2JIeqvhxo2_c)
 
 #### Video Katha Asa Ki Vaar
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Sant Maskeen Singh - Punjabi Katha Asa Ki Vaar](https://www.youtube.com/playlist?list=PLB51D27123CF89E34)
 
 #### Video Katha Sukhmani Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Giani Kulwant Singh Ji - Punjabi Katha Sukhmani Sahib](https://www.youtube.com/playlist?list=PLDAxlLeE4un1Oh4vOvyPeX1PXiu6lU5Ej)
 
 #### Video Katha Rehiraas Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi - English Katha Rehiraas Sahib](https://www.youtube.com/playlist?list=PL5UNLfJ1TsJmZ4E-kW4ZplVA9P8xcpyGB)
 
 #### Video Katha Aarti
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -105,6 +116,7 @@ Table of Contents
 
 #### Video Katha Kirtan Sohila
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Sant Maskeen Singh - Kirtan Sohila Punjabi Katha](https://www.youtube.com/watch?v=eLeyeYuwjkE&list=PLgo0qo3RVDE6oIjExBszI0YJav0Qg39PQ)
 
 ### Video Katha Sri Guru Granth Sahib
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -201,18 +213,26 @@ Table of Contents
 
 ## Web Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Search Gurbani](http://searchgurbani.com/)
+* [Sikhi To The Max](http://www.sikhitothemax.com/)
+* [Granth.co - Explore the holy book of the Sikh faith in 53 languages in an intuitive interface.](https://granth.co)
+* [Learn Larivaar](http://larivaar.com/)
+* [Gurbani Now](http://gurbaninow.com/)
+* [SikhJS - Modern Web App](https://bogas04.github.i/SikhJS)
 
 ## Mobile Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ### Android Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [iSearchGurbani](https://play.google.com/store/apps/details?id=com.smartbuzz.vkh.isg)
 
 ### Windows Phone Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ### iOS Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [iSearchGurbani](https://itunes.apple.com/in/app/isearch-gurbani-!/id674467937?mt=8)
 
 ## Desktop Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -228,3 +248,9 @@ Table of Contents
 
 # Websites
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+
+## Youtube Channels
+
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi](https://www.youtube.com/user/basicsofsikhi/)
+* [Nanak Naam](https://www.youtube.com/user/NanakNaamOrg)
