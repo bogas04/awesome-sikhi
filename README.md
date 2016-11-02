@@ -265,6 +265,9 @@ Table of Contents
 * [Sikh-History](http://www.sikh-history.com/)
 * [Sikhi Art](http://www.sikhiart.com/)
 
+## Twitter Accounts
+* [KirtanPardhana for Kirtan updates and livestreams](https://twitter.com/Akhand_Kirtan)
+
 ## Youtube Channels
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
