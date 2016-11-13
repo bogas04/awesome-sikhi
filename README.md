@@ -234,6 +234,7 @@ Table of Contents
 ### Android Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [iSearchGurbani](https://play.google.com/store/apps/details?id=com.smartbuzz.vkh.isg)
+* [Gurbani Unlimited](https://play.google.com/store/apps/details?id=com.gurbani.unlimited&hl=en)
 
 ### iOS Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
