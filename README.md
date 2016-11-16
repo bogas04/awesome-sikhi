@@ -61,6 +61,8 @@ Table of Contents
     * [Macintosh](#macintosh-applications)
     * [Linux](#linux-applications)
 * [Websites](#websites)
+  * [Blogs](#blogs)
+  * [Twitter Accounts](#twitter-accounts)
   * [Youtube Channels](#youtube-channels)
 
 # Articles
@@ -266,9 +268,18 @@ Table of Contents
 * [SikhWiki](http://www.sikhiwiki.org)
 * [SikhNet](http://www.sikhnet.com/)
 * [Sikh-History](http://www.sikh-history.com/)
+* [Global Sikh Studies](http://www.globalsikhstudies.net/)
 * [Sikhi Art](http://www.sikhiart.com/)
 
+## Blogs
+
+* [TisarPanth](https://tisarpanthdotcom.wordpress.com/)
+* [TisarPanth old](http://tisarpanth.blogspot.kr/)
+* [Naujawani.com](https://naujawani.com/)
+* [I am Daar Ji](https://iamdaarji.blogspot.com.au/)
+
 ## Twitter Accounts
+
 * [KirtanPardhana for Kirtan updates and livestreams](https://twitter.com/Akhand_Kirtan)
 
 ## Youtube Channels
