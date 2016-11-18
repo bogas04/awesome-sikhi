@@ -2,7 +2,7 @@
 
 Table of Contents
 
-* [Articles](#articles)
+* [Documents](#documents)
 * [Communities](#communities)
 * [Videos](#videos)
   * [Video Katha](#video-katha)
@@ -61,12 +61,15 @@ Table of Contents
     * [Macintosh](#macintosh-applications)
     * [Linux](#linux-applications)
 * [Websites](#websites)
+  * [Articles](#articles)
   * [Blogs](#blogs)
+  * [SoundCloud Accounts](#soundcloud-accounts)
   * [Twitter Accounts](#twitter-accounts)
   * [Youtube Channels](#youtube-channels)
 
-# Articles
+# Documents
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Guru Granth Darpan](http://www.gurugranthdarpan.com/)
 
 # Communities
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -264,6 +267,7 @@ Table of Contents
 * [Search Gurbani Desktop Version](https://searchgurbani.com/sgdv)
 
 # Websites
+
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [SikhWiki](http://www.sikhiwiki.org)
 * [SikhNet](http://www.sikhnet.com/)
@@ -271,12 +275,22 @@ Table of Contents
 * [Global Sikh Studies](http://www.globalsikhstudies.net/)
 * [Sikhi Art](http://www.sikhiart.com/)
 
+# Articles
+
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+
 ## Blogs
 
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [TisarPanth](https://tisarpanthdotcom.wordpress.com/)
 * [TisarPanth old](http://tisarpanth.blogspot.kr/)
 * [Naujawani.com](https://naujawani.com/)
 * [I am Daar Ji](https://iamdaarji.blogspot.com.au/)
+
+## SoundCloud Accounts
+
+* Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Scottish Sikhs](https://soundcloud.com/scottishsikhs)
 
 ## Twitter Accounts
 
