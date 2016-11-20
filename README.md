@@ -138,6 +138,7 @@ Table of Contents
 
 ### Video Katha Dasam Granth
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Sri Dasam Granth Lecture: Dr Anurag Singh, Director 'Sikh Itihas Board', SGPC](https://www.youtube.com/watch?v=osrBMYdJzuc)
 
 #### Video Katha Uggardanti
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
