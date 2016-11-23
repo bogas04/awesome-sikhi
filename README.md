@@ -279,8 +279,10 @@ Table of Contents
 * [Sikh-History](http://www.sikh-history.com/)
 * [Global Sikh Studies](http://www.globalsikhstudies.net/)
 * [Sikhi Art](http://www.sikhiart.com/)
+* [AKJ Org](http://akj.org)
+* [AKJ Mobile](https://akjmobile.org/)
 
-# Articles
+## Articles
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
