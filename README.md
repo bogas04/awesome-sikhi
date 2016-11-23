@@ -273,6 +273,7 @@ Table of Contents
 # Websites
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Learn Sikhi - Sikh FAQs](http://www.learnsikhi.com/)
 * [SikhWiki](http://www.sikhiwiki.org)
 * [SikhNet](http://www.sikhnet.com/)
 * [Sikh-History](http://www.sikh-history.com/)
