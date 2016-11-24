@@ -306,8 +306,14 @@ Table of Contents
 ## Youtube Channels
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
-* [Basics of Sikhi](https://www.youtube.com/user/basicsofsikhi/)
-* [Nanak Naam](https://www.youtube.com/user/NanakNaamOrg)
-* [SikhNet](https://www.youtube.com/user/gmustuk)
-* [Bhai Parminder Singh Jallandar Kirtani](https://www.youtube.com/user/singh22g)
-* [Bhai Manpreert Singh Kanpuri Kirtani](https://www.youtube.com/channel/UC53icubAWy3JJ9GHo8PGSXw)
+* [Organization - Basics of Sikhi](https://www.youtube.com/user/basicsofsikhi/)
+* [Organization - Nanak Naam](https://www.youtube.com/user/NanakNaamOrg)
+* [Organization - SikhNet](https://www.youtube.com/user/gmustuk)
+* [Organization - Gurmat College](https://www.youtube.com/channel/UCCYCml8VLaAjozZ50kArRYg)
+* [Kirtani - Bhai Parminder Singh Jallandar](https://www.youtube.com/user/singh22g)
+* [Kirtani - Bhai Manpreert Singh Kanpuri](https://www.youtube.com/channel/UC53icubAWy3JJ9GHo8PGSXw)
+* [Kirtan - Im karamjot](https://www.youtube.com/channel/UCyP-kacIoipl8wdP6U_25-Q)
+* [Kirtan - Gurbani Kirtan](https://www.youtube.com/channel/UCadCs2ig7jZutc3Vu9F2TxA)
+* [Kirtan - GurbaniKirtanVideos](https://www.youtube.com/channel/UCviUIV6-DxEEToiWe3f57hQ)
+* [News - Akaal Channel](https://www.youtube.com/channel/UC52IQoZ4fFp_LccSMsZATXg)
+
