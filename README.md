@@ -289,6 +289,7 @@ Table of Contents
 ## Blogs
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [The Travelling Sikh](http://www.thetravellingsingh.com/)
 * [TisarPanth](https://tisarpanthdotcom.wordpress.com/)
 * [TisarPanth old](http://tisarpanth.blogspot.kr/)
 * [Naujawani.com](https://naujawani.com/)
