@@ -75,8 +75,11 @@ Table of Contents
 
 # Communities
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
-* [Reddit](https://reddit.com/r/sikh).
-* [SikhNet Discussion](https://www.sikhnet.com/discussion/).
+* [Sikh Sangat](http://sikhsangat.com/)
+* [Sikh Awareness](http://www.sikhawareness.com/)
+* [GurmatBibek](http://www.gurmatbibek.com/)
+* [Reddit](https://reddit.com/r/sikh)
+* [SikhNet Discussion](https://www.sikhnet.com/discussion/)
 
 # Videos
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -233,11 +236,16 @@ Table of Contents
 ## Web Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [Search Gurbani](http://searchgurbani.com/)
-* [Sikhi To The Max](http://www.sikhitothemax.com/)
-* [Granth.co - Explore the holy book of the Sikh faith in 53 languages in an intuitive interface.](https://granth.co)
+* [SikhiToTheMax Online](http://www.sikhitothemax.com/)
+* [Granth.co](https://granth.co)
 * [Learn Larivaar](http://larivaar.com/)
-* [Gurbani Now](http://gurbaninow.com/)
+* [GurbaniNow Web](https://web.gurbaninow.com/)
+* [GurbaniNow - SGGS](https://sggs.gurbaninow.com/)
 * [SikhJS - Modern Web App](https://bogas04.github.io/SikhJS)
+* [iGurbani Beta](http://beta.igurbani.com/)
+* [iGurbani v1](http://v1.igurbani.com/)
+* [SriGranth](http://www.srigranth.org/)
+* [SriDasam](http://www.sridasam.org/)
 
 ## Mobile Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -245,11 +253,20 @@ Table of Contents
 ### Android Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [iSearchGurbani](https://play.google.com/store/apps/details?id=com.smartbuzz.vkh.isg)
+* [iGurbani](https://play.google.com/store/apps/details?id=com.akaldesign.igurbani)
+* [GurbaniNow](https://play.google.com/store/apps/details?id=me.sarabveer.gurbaninow)
+* [iGranth](https://play.google.com/store/apps/details?id=com.kirpa.igranth)
 * [Gurbani Unlimited](https://play.google.com/store/apps/details?id=com.gurbani.unlimited&hl=en)
+* [Sundar Gutka](https://play.google.com/store/apps/details?id=com.WahegurooNetwork.SundarGutka)
+* [Sundar Gutka Taksal](https://play.google.com/store/apps/details?id=org.damdamitaksal.sundargutka)
 
 ### iOS Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 * [iSearchGurbani](https://itunes.apple.com/in/app/isearch-gurbani-!/id674467937?mt=8)
+* [GurbaniKhoj](https://itunes.apple.com/us/app/gurbani-khoj/id731781843?mt=8)
+* [iGurbani](https://itunes.apple.com/us/app/igurbani/id569235977?mt=8)
+* [Sundar Gutka](https://itunes.apple.com/us/app/sundar-gutka/id431446112?mt=8)
+* [Asa Di Vaar - Bahu Shabdi](https://itunes.apple.com/us/app/asa-di-vaar-bahu-shabdi/id920587098?mt=8)
 
 ### Windows Phone Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
@@ -259,7 +276,7 @@ Table of Contents
 
 ### Windows Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
-* [Sikhi To The Max](http://www.sikhitothemax.com/updates.htm).
+* [SikhiToTheMax II](http://www.sikhitothemax.com/updates.htm).
 * [Search Gurbani Desktop Version](https://searchgurbani.com/sgdv)
 
 ### Macintosh Applications
@@ -273,14 +290,21 @@ Table of Contents
 # Websites
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Basics of Sikhi](http://www.basicsofsikhi.com/)
+* [SikhAnswers](http://www.sikhanswers.com/)
+* [Panthic.org](http://www.panthic.org/)
+* [Sikh24](http://www.sikh24.com/)
+* [Sikh Siyasat English](http://sikhsiyasat.net/)
 * [Learn Sikhi - Sikh FAQs](http://www.learnsikhi.com/)
 * [SikhWiki](http://www.sikhiwiki.org)
 * [SikhNet](http://www.sikhnet.com/)
 * [Sikh-History](http://www.sikh-history.com/)
 * [Global Sikh Studies](http://www.globalsikhstudies.net/)
 * [Sikhi Art](http://www.sikhiart.com/)
-* [AKJ Org](http://akj.org)
-* [AKJ Mobile](https://akjmobile.org/)
+* [AKJ.Org](http://akj.org)
+* [AKJ Mobile (AKJ.Org)](https://akjmobile.org/)
+* [AKJ FAQ](http://akjfaq.com/)
+* [Nanakshahi Day](https://nanakshahi.sarabveer.me/)
 
 ## Articles
 
@@ -294,6 +318,8 @@ Table of Contents
 * [TisarPanth old](http://tisarpanth.blogspot.kr/)
 * [Naujawani.com](https://naujawani.com/)
 * [I am Daar Ji](https://iamdaarji.blogspot.com.au/)
+* [Japnaam Singh](https://japnaamsingh.blogspot.com/)
+* [Puratan Jatha](https://puratanjatha.blogspot.com/)
 
 ## SoundCloud Accounts
 
@@ -311,10 +337,12 @@ Table of Contents
 * [Organization - Nanak Naam](https://www.youtube.com/user/NanakNaamOrg)
 * [Organization - SikhNet](https://www.youtube.com/user/gmustuk)
 * [Organization - Gurmat College](https://www.youtube.com/channel/UCCYCml8VLaAjozZ50kArRYg)
+* [Organization - AKJ.Org](https://www.youtube.com/user/akjdotorg)
 * [Kirtani - Bhai Parminder Singh Jallandar](https://www.youtube.com/user/singh22g)
 * [Kirtani - Bhai Manpreert Singh Kanpuri](https://www.youtube.com/channel/UC53icubAWy3JJ9GHo8PGSXw)
 * [Kirtan - Im karamjot](https://www.youtube.com/channel/UCyP-kacIoipl8wdP6U_25-Q)
 * [Kirtan - Gurbani Kirtan](https://www.youtube.com/channel/UCadCs2ig7jZutc3Vu9F2TxA)
 * [Kirtan - GurbaniKirtanVideos](https://www.youtube.com/channel/UCviUIV6-DxEEToiWe3f57hQ)
+* [Kirtan - Kirtan Khajana](https://www.youtube.com/user/luongorule)
 * [News - Akaal Channel](https://www.youtube.com/channel/UC52IQoZ4fFp_LccSMsZATXg)
 
