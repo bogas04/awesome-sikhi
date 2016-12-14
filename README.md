@@ -69,6 +69,7 @@ Table of Contents
 
 # Documents
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Vidhia - Sikhi Files Collection](http://vidhia.com/)
 * [Professory Sahib Singh - Guru Granth Darpan](http://www.gurugranthdarpan.com/)
 * [Bhai Randhir Singh - Jail Chithiya English](http://www.mahapurakh.com/bhai-randhir-singh-english)
 * [Bhai Randhir Singh - Jail Chithiya Punjabi](http://www.mahapurakh.com/bhai-randhir-singh-punjabi)
