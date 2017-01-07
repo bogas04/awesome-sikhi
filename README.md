@@ -321,6 +321,7 @@ Table of Contents
 * [I am Daar Ji](https://iamdaarji.blogspot.com.au/)
 * [Japnaam Singh](https://japnaamsingh.blogspot.com/)
 * [Puratan Jatha](https://puratanjatha.blogspot.com/)
+* [Prof Anurag Singh](https://profanuraagsingh.wordpress.com/)
 
 ## SoundCloud Accounts
 
