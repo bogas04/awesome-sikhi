@@ -267,6 +267,8 @@ Table of Contents
 * [iGurbani](https://itunes.apple.com/us/app/igurbani/id569235977?mt=8)
 * [Sundar Gutka](https://itunes.apple.com/us/app/sundar-gutka/id431446112?mt=8)
 * [Asa Di Vaar - Bahu Shabdi](https://itunes.apple.com/us/app/asa-di-vaar-bahu-shabdi/id920587098?mt=8)
+* [SikhNet Gurbani Media Center](https://itunes.apple.com/us/app/sikhnet-gurbani-media-center/id487763229?mt=8)
+* [MySikhi Nitnem Gutka Calendar](https://itunes.apple.com/us/app/mysikhi-nitnem-gutka-calendar/id565106280?mt=8)
 
 ### Windows Phone Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
