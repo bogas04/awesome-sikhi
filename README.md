@@ -76,6 +76,7 @@ Table of Contents
 
 # Communities
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Sikh Philosophy Network Forum] (http://www.sikhphilosophy.net)
 * [Sikh Sangat](http://sikhsangat.com/)
 * [Sikh Awareness](http://www.sikhawareness.com/)
 * [GurmatBibek](http://www.gurmatbibek.com/)
