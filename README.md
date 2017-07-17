@@ -76,7 +76,7 @@ Table of Contents
 
 # Communities
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
-* [Sikh Philosophy Network Forum] (http://www.sikhphilosophy.net)
+* [Sikh Philosophy Network Forum](http://www.sikhphilosophy.net)
 * [Sikh Sangat](http://sikhsangat.com/)
 * [Sikh Awareness](http://www.sikhawareness.com/)
 * [GurmatBibek](http://www.gurmatbibek.com/)
@@ -326,6 +326,7 @@ Table of Contents
 ## SoundCloud Accounts
 
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [Bhai Sukha Singh](https://soundcloud.com/bhaisukhasinghuk): Kathas and daily English Hukamnama.
 * [Scottish Sikhs](https://soundcloud.com/scottishsikhs)
 
 ## Twitter Accounts
