@@ -253,11 +253,14 @@ Table of Contents
 
 ### Android Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
-* [iSearchGurbani](https://play.google.com/store/apps/details?id=com.smartbuzz.vkh.isg)
-* [iGurbani](https://play.google.com/store/apps/details?id=com.akaldesign.igurbani)
+* [Daily Hukamnama](https://play.google.com/store/apps/details?id=in.baljeetsingh.dailyhukamnama)
 * [GurbaniNow](https://play.google.com/store/apps/details?id=me.sarabveer.gurbaninow)
-* [iGranth](https://play.google.com/store/apps/details?id=com.kirpa.igranth)
 * [Gurbani Unlimited](https://play.google.com/store/apps/details?id=com.gurbani.unlimited&hl=en)
+* [iSearchGurbani](https://play.google.com/store/apps/details?id=com.smartbuzz.vkh.isg)
+* [iGranth](https://play.google.com/store/apps/details?id=com.kirpa.igranth)
+* [iGurbani](https://play.google.com/store/apps/details?id=com.akaldesign.igurbani)
+* [Live Kirtan Recordings Harmandir Sahib](https://play.google.com/store/apps/details?id=in.baljeetsingh.livekirtanharmandirsahib)
+* [Sikh News](https://play.google.com/store/apps/details?id=in.baljeetsingh.sikhnewsapp)
 * [Sundar Gutka](https://play.google.com/store/apps/details?id=com.WahegurooNetwork.SundarGutka)
 * [Sundar Gutka Taksal](https://play.google.com/store/apps/details?id=org.damdamitaksal.sundargutka)
 
