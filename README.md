@@ -253,6 +253,7 @@ Table of Contents
 
 ### Android Applications
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
+* [SIkhi Sewa](https://play.google.com/store/apps/details?id=com.sikhstudio.sikhi&hl=en_IN)
 * [Daily Hukamnama](https://play.google.com/store/apps/details?id=in.baljeetsingh.dailyhukamnama)
 * [GurbaniNow](https://play.google.com/store/apps/details?id=me.sarabveer.gurbaninow)
 * [Gurbani Unlimited](https://play.google.com/store/apps/details?id=com.gurbani.unlimited&hl=en)
@@ -337,6 +338,7 @@ Table of Contents
 ## Twitter Accounts
 
 * [KirtanPardhana for Kirtan updates and livestreams](https://twitter.com/Akhand_Kirtan)
+* [We are Sikhs for unique stories](https://twitter.com/we_are_sikhs/)
 
 ## Youtube Channels
 
@@ -353,4 +355,9 @@ Table of Contents
 * [Kirtan - GurbaniKirtanVideos](https://www.youtube.com/channel/UCviUIV6-DxEEToiWe3f57hQ)
 * [Kirtan - Kirtan Khajana](https://www.youtube.com/user/luongorule)
 * [News - Akaal Channel](https://www.youtube.com/channel/UC52IQoZ4fFp_LccSMsZATXg)
+* [Golden Temple Amritsar](https://www.youtube.com/channel/UC07XKriQN6bUkaW-FGfiSGg)
+* [Nirmol Bani](https://www.youtube.com/channel/UCHnjeqjJ_bOg8LgxWlajrOw)
+* [Prabh Bani](https://www.youtube.com/channel/UCf4CA6OOjA0AZN6H5bY5PnQ)
+* [World Gurdwara](https://www.youtube.com/user/WorldGurudwara)
+* [Ravinder Singh Khalsa](https://www.youtube.com/channel/UC_vVaFkaoqUxAxZm9pWrhHQ)
 
