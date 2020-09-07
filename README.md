@@ -158,6 +158,7 @@ Table of Contents
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ## Video Kirtan
+* [Puratan (traditional) and Rare Raag Kirtan - 24/7 Stream](https://www.youtube.com/watch?v=tsshX6bWsNg)
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
 
 ## Video History
