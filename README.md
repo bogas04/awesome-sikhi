@@ -360,4 +360,11 @@ Table of Contents
 * [Prabh Bani](https://www.youtube.com/channel/UCf4CA6OOjA0AZN6H5bY5PnQ)
 * [World Gurdwara](https://www.youtube.com/user/WorldGurudwara)
 * [Ravinder Singh Khalsa](https://www.youtube.com/channel/UC_vVaFkaoqUxAxZm9pWrhHQ)
+* [Raj Karega Khalsa](https://www.youtube.com/c/RAJKAREGAKHALSA/videos)
+* [Guru Ki Bani](https://www.youtube.com/c/BestRecords/videos)
+* [Amrit Baani](https://www.youtube.com/channel/UCHadL8n8NKnWU1GH8ThesUA)
+* [Gurbani Shabad Kirtan](https://www.youtube.com/user/amrittsaagar)
+
+
+
 
