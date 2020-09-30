@@ -73,6 +73,7 @@ Table of Contents
 * [Professory Sahib Singh - Guru Granth Darpan](http://www.gurugranthdarpan.com/)
 * [Bhai Randhir Singh - Jail Chithiya English](http://www.mahapurakh.com/bhai-randhir-singh-english)
 * [Bhai Randhir Singh - Jail Chithiya Punjabi](http://www.mahapurakh.com/bhai-randhir-singh-punjabi)
+* [Katha Vichar Notes](https://drive.google.com/drive/folders/1ja25Y-FoQY-eev2lTVZ5kozcW2VF3A2c)
 
 # Communities
 * Please [add](https://github.com/bogas04/awesome-sikhi/edit/master/README.md) more.
